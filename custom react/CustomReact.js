@@ -16,7 +16,7 @@ for (const prop in props) {
     }
 }
 
-}
+
 const reactElement = {
     type: 'a',
     props:{
